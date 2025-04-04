@@ -72,8 +72,18 @@ I am a Computer Science student with a strong background in software development
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </span>
   
-<h2>Github stats:</h2> 
+<h2>📊 GitHub Stats:</h2>
 
+<!-- Stats generales -->
 [![](https://github-readme-stats.vercel.app/api?username=brunitoa10&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/brunitoa10)
+
+<!-- Racha de commits -->
 [![](https://github-readme-streak-stats.herokuapp.com/?user=brunitoa10&theme=material-palenight)](https://github.com/brunitoa10)
+
+<!-- Lenguajes más usados -->
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunitoa10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/brunitoa10)
+
+<!-- Actividad diaria/semanal -->
+[![](https://github-readme-activity-graph.vercel.app/graph?username=brunitoa10&theme=tokyo-night&hide_border=true)](https://github.com/brunitoa10)
+
 </div>
