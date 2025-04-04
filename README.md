@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Bruno Ariel Parisi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width="300px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZtOTFtYmJxcnd1aXVzejIzMWRhbGJ3aG14MGNoODkxb3Z4dzRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300px" alt="Coding Penguin" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
