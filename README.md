@@ -45,24 +45,32 @@ I am a Computer Science student with a strong background in software development
 <h4> Lenguajes de Programación </h4>
 <span>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Pascal-512BD4?style=for-the-badge&logo=pascal&logoColor=white"> <!-- No oficial, puede reemplazarse -->
-  <img src="https://img.shields.io/badge/Prolog-B30000?style=for-the-badge&logo=prolog&logoColor=white"> <!-- No oficial, puede personalizarse -->
+  <img src="https://img.shields.io/badge/Pascal-512BD4?style=for-the-badge&logo=pascal&logoColor=white">
+  <img src="https://img.shields.io/badge/Prolog-B30000?style=for-the-badge&logo=prolog&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</span>
+
+<h4> Tecnologías Web (Front-end) </h4>
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white">
+</span>
+
+<h4> Tecnologías Back-end y Bases de Datos </h4>
+<span>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=00FFFF">
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</span>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</span
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=brunitoa10&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/brunitoa10)
