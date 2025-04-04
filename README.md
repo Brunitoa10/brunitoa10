@@ -1,5 +1,8 @@
 <h1 align="center"><b>Hi , I'm Bruno Ariel Parisi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+
+<p align="center"><i>La tecnología avanza con ideas, pero solo se transforma en equipo. 🚀</i></p>
+
 <img align="right" width="300px" alt="Coding Penguin" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 
 
