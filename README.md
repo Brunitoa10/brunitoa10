@@ -70,7 +70,8 @@ I am a Computer Science student with a strong background in software development
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</span
+</span>
+  
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=brunitoa10&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/brunitoa10)
