@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Bruno Ariel Parisi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZtOTFtYmJxcnd1aXVzejIzMWRhbGJ3aG14MGNoODkxb3Z4dzRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -8,31 +8,31 @@ I am a Computer Science student with a strong background in software development
 
 💻 Technical Skills:
 
-Full-stack development (Java, React, Next.js, TypeScript)
+- Full-stack development (Java, React, Next.js, TypeScript)
 
-Software architecture & design patterns (SOLID, Factory, Observer)
+- Software architecture & design patterns (SOLID, Factory, Observer)
 
-Cybersecurity & ethical hacking
+- Cybersecurity & ethical hacking
 
-Operating systems (Windows, Linux, Kali Linux)
+- Operating systems (Windows, Linux, Kali Linux)
 
-Database management
+- Database management
 
 🚀 Currently Learning:
 
-Next.js
+- Next.js
 
-React
+- React
 
-Prolog
+- Prolog
 
 👨‍💻 Work & Projects:
 
-Developed a Super Mario Bros clone in Java, implementing game mechanics, collision detection, and animations.
+- Developed a Super Mario Bros clone in Java, implementing game mechanics, collision detection, and animations.
 
-Created DriveNow Cars, a car rental platform using React, Next.js, Stripe, and TailwindCSS.
+- Created DriveNow Cars, a car rental platform using React, Next.js, Stripe, and TailwindCSS.
 
-Developed DISO | Digital Solutions, a platform to enhance my expertise in React.
+- Developed DISO | Digital Solutions, a platform to enhance my expertise in React.
 
 🌟 Open to Collaboration: I'm looking to contribute to open-source projects and exchange knowledge with the tech community.
 - 📫 Reach out to me at: <a href="bnoprs00@gmail.com">bnoprs00@gmail.com</a>
