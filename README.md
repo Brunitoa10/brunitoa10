@@ -39,6 +39,15 @@ I am a Computer Science student with a strong background in software development
 - 📫 Reach out to me at: <a href="bnoprs00@gmail.com">bnoprs00@gmail.com</a>
 
 ## My Skills Include
+<h4> Lenguajes de Programación </h4>
+<span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Pascal-512BD4?style=for-the-badge&logo=pascal&logoColor=white"> <!-- No oficial, puede reemplazarse -->
+  <img src="https://img.shields.io/badge/Prolog-B30000?style=for-the-badge&logo=prolog&logoColor=white"> <!-- No oficial, puede personalizarse -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</span>
 
 <h4> Front-end Technologies </h4>
 <span>
