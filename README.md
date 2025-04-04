@@ -47,20 +47,11 @@ I am a Computer Science student with a strong background in software development
   <img src="https://img.shields.io/badge/Pascal-512BD4?style=for-the-badge&logo=pascal&logoColor=white"> <!-- No oficial, puede reemplazarse -->
   <img src="https://img.shields.io/badge/Prolog-B30000?style=for-the-badge&logo=prolog&logoColor=white"> <!-- No oficial, puede personalizarse -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</span>
-
-<h4> Front-end Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</span>
-
-<h4> Back-end & Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=00FFFF">
 </span>
 
