@@ -81,6 +81,19 @@ I am a Computer Science student with a strong background in software development
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
+
+## 💻 Preferred Development Environment
+
+<span>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</span>
+
+> I primarily work in **Linux environments**, especially distributions like **Ubuntu** and **Linux Mint**.  
+> Currently, my development setup is based on **Linux Mint** due to its performance, stability, and great compatibility with development tools.
+
   
 <h2>📊 GitHub Stats:</h2>
 
