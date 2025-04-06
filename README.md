@@ -84,8 +84,8 @@ I am a Computer Science student with a strong background in software development
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
-> I primarily work in **Linux environments**, especially distributions like **Ubuntu** and **Linux Mint**.  
-> Currently, my development setup is based on **Linux Mint** due to its performance, stability, and great compatibility with development tools.
+  I primarily work in **Linux environments**, especially distributions like **Ubuntu** and **Linux Mint**.  
+  Currently, my development setup is based on **Linux Mint** due to its performance, stability, and great compatibility with development tools.
 
   
 <h2>📊 GitHub Stats:</h2>
