@@ -22,13 +22,6 @@ I am a Computer Science student with a strong background in software development
 
 - Database management
 
-🚀 Currently Learning:
-
-- Next.js
-
-- React
-
-- Prolog
 
 👨‍💻 Work & Projects:
 
