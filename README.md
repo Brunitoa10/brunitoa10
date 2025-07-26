@@ -11,7 +11,7 @@
 IT technician and computer science undergraduate student with experience in technical support, system maintenance, and equipment optimization. I have developed projects in Java, C, React, Next.js, and Prolog, applying best practices and design principles to create scalable and secure solutions. Passionate about offensive cybersecurity and ethical hacking, I complement my training with self-taught learning in OSINT, digital forensics, and information security. Committed to continuous improvement, I bring a comprehensive perspective that combines technological development, efficiency, security, and a social approach focused on positive impact on organizations and communities.
 
 
-💻 Technical Skills:
+### 💻 Technical Skills:
 
 ### Software Development
 - SOLID Design Principles
