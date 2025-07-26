@@ -40,7 +40,7 @@ IT technician and computer science undergraduate student with experience in tech
 - LaTeX
 
 
-👨‍💻 Work & Projects:
+### 👨‍💻 Work & Projects:
 
 - Developed a Super Mario Bros clone in Java, implementing game mechanics, collision detection, and animations.
 
@@ -84,7 +84,7 @@ IT technician and computer science undergraduate student with experience in tech
 </span>
 
 
-## 💻 Preferred Development Environment
+### 💻 Preferred Development Environment
 
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
