@@ -8,19 +8,36 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Science student with a strong background in software development and technical support. I have experience working on Java, C, React, and Next.js projects, applying SOLID principles and best practices to ensure efficiency, security, and performance.
+IT technician and computer science undergraduate student with experience in technical support, system maintenance, and equipment optimization. I have developed projects in Java, C, React, Next.js, and Prolog, applying best practices and design principles to create scalable and secure solutions. Passionate about offensive cybersecurity and ethical hacking, I complement my training with self-taught learning in OSINT, digital forensics, and information security. Committed to continuous improvement, I bring a comprehensive perspective that combines technological development, efficiency, security, and a social approach focused on positive impact on organizations and communities.
+
 
 💻 Technical Skills:
 
-- Full-stack development (Java, React, Next.js, TypeScript)
+### Software Development
+- SOLID Design Principles
+- Clean Code Practices
+- Git & GitHub
+- Data Structures & Algorithms
+- Languages: Java, C, JavaScript, React, Pascal, HTML, CSS, TypeScript, Bash/Shell scripting
 
-- Software architecture & design patterns (SOLID, Factory, Observer)
+### Operating Systems & Networking
+- OS Configuration & Maintenance (Windows, Linux)
+- Network Configuration & Troubleshooting
+- Virtualization (VirtualBox, VMware)
 
-- Cybersecurity & ethical hacking
+### Cybersecurity & Ethical Hacking
+- Offensive and Defensive Ethical Hacking
+- Metasploit Framework
+- Vulnerability Assessment (Nessus)
+- Security Reporting
+- Penetration Testing
+- Network & Systems Security
+- OSINT Techniques
 
-- Operating systems (Windows, Linux, Kali Linux)
-
-- Database management
+### Hardware & Productivity Tools
+- PC Assembly & Configuration
+- MS Office Suite
+- LaTeX
 
 
 👨‍💻 Work & Projects:
